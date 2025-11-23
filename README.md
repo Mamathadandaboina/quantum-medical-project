@@ -35,7 +35,7 @@ The following files are used directly in the Colab notebook and should be upload
 ## Project Structure
 
 ```
-Quantum_Medical_Project_QML_QIP.ipynb
+Quantum_Medical_Project.ipynb
 breast_cancer.csv
 scaler.pkl
 pca.pkl
